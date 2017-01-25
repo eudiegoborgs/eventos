@@ -31,6 +31,17 @@
             "url": "https://www.meetup.com/pt-BR/Bitcoin-BH/events/234551901/"
         },
         {
+            "name": "9º PHPMG Talks",
+            "date": "2017-02-04",
+            "local": {
+                "name": "e-Motion",
+                "googlemaps_link": "https://goo.gl/maps/EewTW54dq9K2"
+            },
+            "community":"PHP-MG",
+            "description": "9º PHPMG Talks. Começando o ano com força total!",
+            "url": "https://www.meetup.com/pt-BR/PHP-MG/events/237167109/"
+        },
+        {
             "name": "15º CocoaTalks BH",
             "date": "2017-01-31",
             "local": {
