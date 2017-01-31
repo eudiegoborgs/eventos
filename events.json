@@ -11,6 +11,17 @@
             "url": "https://www.meetup.com/pt-BR/Bitcoin-BH/events/234551933/"
         },
         {
+            "name": "1º Lambda I/O BH",
+            "date": "2017-03-11",
+            "local": {
+                "name": "ThoughtWorks",
+                "googlemaps_link": "https://goo.gl/maps/SiFsXJTye4F2"
+            },
+            "community":"Lambda I/O BH",
+            "description": "A Fundação Lambda I/O consiste de uma iniciativa aberta que visa introduzir as pessoas ao redor do mundo a todos os recursos e benefícios de se conhecer o paradigma de programação funcional.",
+            "url": "https://www.meetup.com/Lambda-I-O-Belo-Horizonte/"
+        },
+        {
             "name": "Go 1.8 Release Party",
             "date": "2017-02-16",
             "local": {
