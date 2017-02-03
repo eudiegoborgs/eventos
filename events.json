@@ -22,6 +22,16 @@
             "url": "https://www.meetup.com/Lambda-I-O-Belo-Horizonte/"
         },
         {
+            "name": "Dev in Company",
+            "date": "2017-02-18",
+            "local": {
+                "name": "Hotmart",
+                "googlemaps_link": "https://goo.gl/maps/5hk4z9RohNr"
+            },
+            "description": "O Dev in Company surge para consolidar e suprir uma deficiência de comunicação entre empresas e profissionais do mercado, abrir portas para quem deseja levar conteúdo de qualidade para a comunidade e possibilitar uma maior interação e experiência entre os participantes, aumentando assim o network entre os presentes.",
+            "url": "http://devincompany.in/"
+        },
+        {
             "name": "Go 1.8 Release Party",
             "date": "2017-02-16",
             "local": {
