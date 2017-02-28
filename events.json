@@ -1,27 +1,6 @@
 {
     "events": [
         {
-            "name": "Encontro Bitcoin BH",
-            "date": "2017-03-14",
-            "local": {
-                "name": "GUAJA Casa",
-                "googlemaps_link": "https://goo.gl/maps/FkGnRAmZKZ12"
-            },
-            "description": "Venha para o encontro dos entusiastas de Bitcoin em BH",
-            "url": "https://www.meetup.com/pt-BR/Bitcoin-BH/events/234551933/"
-        },
-        {
-            "name": "1º Lambda I/O BH",
-            "date": "2017-03-11",
-            "local": {
-                "name": "ThoughtWorks",
-                "googlemaps_link": "https://goo.gl/maps/SiFsXJTye4F2"
-            },
-            "community":"Lambda I/O BH",
-            "description": "A Fundação Lambda I/O consiste de uma iniciativa aberta que visa introduzir as pessoas ao redor do mundo a todos os recursos e benefícios de se conhecer o paradigma de programação funcional.",
-            "url": "https://www.meetup.com/Lambda-I-O-Belo-Horizonte/"
-        },
-        {
             "name": "Dev in Company",
             "date": "2017-02-18",
             "local": {
@@ -30,87 +9,6 @@
             },
             "description": "O Dev in Company surge para consolidar e suprir uma deficiência de comunicação entre empresas e profissionais do mercado, abrir portas para quem deseja levar conteúdo de qualidade para a comunidade e possibilitar uma maior interação e experiência entre os participantes, aumentando assim o network entre os presentes.",
             "url": "http://devincompany.in/"
-        },
-        {
-            "name": "Go 1.8 Release Party",
-            "date": "2017-02-16",
-            "local": {
-                "name": "The Plant co-working",
-                "googlemaps_link": "https://goo.gl/maps/pWwd9nnH38G2"
-            },
-            "description": "Para celebrar o lançamento do Go 1.8 nós estamos organizando um evento mundial com meetups acontecendo no mesmo dia ao redor do mundo no mesmo dia.",
-            "url": "https://www.meetup.com/pt-BR/go-belo-horizonte/events/236712496/"
-        },
-        {
-            "name": "Encontro Bitcoin BH",
-            "date": "2017-02-14",
-            "local": {
-                "name": "GUAJA Casa",
-                "googlemaps_link": "https://goo.gl/maps/FkGnRAmZKZ12"
-            },
-            "description": "Venha para o encontro dos entusiastas de Bitcoin em BH",
-            "url": "https://www.meetup.com/pt-BR/Bitcoin-BH/events/234551901/"
-        },
-        {
-            "name": "9º PHPMG Talks",
-            "date": "2017-02-04",
-            "local": {
-                "name": "e-Motion",
-                "googlemaps_link": "https://goo.gl/maps/EewTW54dq9K2"
-            },
-            "community":"PHP-MG",
-            "description": "9º PHPMG Talks. Começando o ano com força total!",
-            "url": "https://www.meetup.com/pt-BR/PHP-MG/events/237167109/"
-        },
-        {
-            "name": "15º CocoaTalks BH",
-            "date": "2017-01-31",
-            "local": {
-                "name": "CI&T",
-                "googlemaps_link": "https://goo.gl/maps/vSSajHPRZCP2"
-            },
-            "description": "CocoaHeads é um grupo formado por desenvolvedores (profissionais e iniciantes), que se organizam para reunir pessoas com a mesma paixão: Programação para os iDevices da Apple (OSX e iOS).",
-            "url": "https://www.meetup.com/pt-BR/CocoaHeads-Talks-BH/events/237132787/"
-        },
-        {
-            "name": "Encontro Women Techmakers",
-            "date": "2017-01-31",
-            "local": {
-                "name": "Avenue Code",
-                "googlemaps_link": "https://goo.gl/maps/B1NxySEKBH22"
-            },
-            "description": "Nosso encontro mensal do Women Techmakers BH está chegando! ",
-            "url": "https://www.meetup.com/pt-BR/GDG-BH/events/237041528/"
-        },
-        {
-            "name": "Confraternização GDG BH",
-            "date": "2017-01-27",
-            "local": {
-                "name": "Una Campus Barro Preto",
-                "googlemaps_link": "https://goo.gl/maps/myq8VtPMPmt"
-            },
-            "description": "Confraternização do GDG BH. Iremos contar um pouco sobre como foi este grande ano de 2016 e quais as novidades que vem por ai para o ano de 2017.",
-            "url": "https://www.meetup.com/pt-BR/GDG-BH/events/236970490/"
-        },
-        {
-            "name": "FEMUG-MG",
-            "date": "2017-01-26",
-            "local": {
-                "name": "CI&T Belo Horizonte",
-                "googlemaps_link": "https://goo.gl/maps/f9LynEyr2Pr"
-            },
-            "description": "O FEMUG trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir conhecimentos relacionados a front-end e tecnologias periféricas.",
-            "url": "https://goo.gl/YtgxGs"
-        },
-        {
-            "name": "PyData BH #1",
-            "date": "2017-01-26",
-            "local": {
-                "name": "ThoughtWorks",
-                "googlemaps_link": "https://goo.gl/maps/r9zrsqcqBwq"
-            },
-            "description": "PyData é um grupo para usuários e desenvolvedores de ferramentas de análise de dados para compartilhar ideias e aprender uns com os outros.",
-            "url": "https://www.meetup.com/PyData-Belo-Horizonte/events/237074854"
         },
         {
             "name": "30º Encontro do IxDA/BH",
@@ -123,16 +21,6 @@
             "url": "https://www.sympla.com.br/30-encontro-do-ixdabh__111634"
         },
         {
-            "name": "MEETUP#2 - She's Tech",
-            "date": "2017-01-25",
-            "local": {
-                "name": "Espaço 104",
-                "googlemaps_link": "https://goo.gl/maps/8XfvZRD9Yi82"
-            },
-            "description": "She's tech se dedica ao fortalecimento da comunidade feminina empreendedora no ecossistema de startups.",
-            "url": "https://www.meetup.com/pt-BR/Shes-Tech/events/237026001/"
-        },
-        {
             "name": "20º devbeers Belo Horizonte",
             "date": "2017-01-24",
             "local": {
@@ -141,16 +29,6 @@
             },
             "description": "Mais uma vez vamos unir devs para conversar sobre a sua linguagem de programação favorita e tomar uma gelada, junte-se a nós! ",
             "url": "https://www.sympla.com.br/devbeers-bh-20__112643"
-        },
-        {
-            "name": "#UseThePlatform with Polymer Project",
-            "date": "2017-01-24",
-            "local": {
-                "name": "Hangouts",
-                "googlemaps_link": "https://www.meetup.com/pt-BR/GDG-BH/events/236984788/"
-            },
-            "description": "Hangouts sobre Polymer e Web Components com Afonso Pacifer.",
-            "url": "https://www.meetup.com/pt-BR/GDG-BH/events/236984788/"
         },
         {
             "name": "Ionic Bootcamp",
@@ -242,15 +120,6 @@
             "url": "http://nodegirls.com"
         },
         {
-            "name": "11° Encontro Python BH",
-            "date": "2015-06-20",
-            "local": {
-                "name": "Não informado."
-            },
-            "description": "Encontro da Comunidade Python de Belo Horizonte. Esse é um evento sem fins lucrativos que tem como objetivo reunir estudantes e profissionais entusiastas da linguagem Python a fim de propiciar uma forma de compartilhamento de informações e experiências relacionadas a esta linguagem que a cada dia vem conquistando cada vez mais espaço no mercado.",
-            "url": "http://www.meetup.com/pt/Belo-Horizonte-Python-User-Group/events/219926243/"
-        },
-        {
             "name": "DevCommerce Conference",
             "date": "2015-06-20",
             "local": {
@@ -291,16 +160,6 @@
             "url": "http://belohorizonte.wordcamp.org/2015/"
         },
         {
-            "name": "beer.php",
-            "date": "2015-06-09",
-            "local": {
-                "name": "Rock Esporte Bar",
-                "googlemaps_link": "https://goo.gl/Ct6Tkv"
-            },
-            "description": "Encontro informal mensal do PHP-MG.",
-            "url": "http://www.meetup.com/pt/PHP-MG/events/221217510/"
-        },
-        {
             "name": "iMasters Developer Week",
             "date": "2015-05-26",
             "local": {
@@ -321,36 +180,6 @@
             "url": "http://nodeschool.io/belo-horizonte"
         },
         {
-            "name": "Encontro Women Techmakers",
-            "date": "2015-05-09",
-            "local": {
-                "name": "Belo Horizonte",
-                "googlemaps_link": "https://goo.gl/maps/vRONJ"
-            },
-            "description": "O WTM é um programa do Google para incentivar a participação de mulheres na tecnologia. Além da importância da inclusão do gênero na área, pensamos que quanto mais diversidade temos, mais visões diferentes sobre um mesmo produto e maior qualidade.",
-            "url": "http://www.meetup.com/GDG-BH/events/222247655/"
-        },
-        {
-            "name": "Hack Night - Build realtime systems",
-            "date": "2014-12-19",
-            "local": {
-                "name": "Auditório MGTI",
-                "googlemaps_link": "https://goo.gl/maps/to7D5"
-            },
-            "description": "Estamos organizando uma hack night na noite do dia 18 de dezembro. O tema será apps em tempo real, como o tema é de grande abordagem, não deixem nenhuma ideia de fora.",
-            "url": "http://www.meetup.com/sanpedrovalley/events/219156080/"
-        },
-        {
-            "name": "2° Minas Dev Beer",
-            "date": "2014-12-18",
-            "local": {
-                "name": "Rock Esporte Club",
-                "googlemaps_link": "https://goo.gl/maps/DK4jv"
-            },
-            "description": "Pessoal, Agora é oficial! O 2° Minas Dev Beer está marcado. E como prometido temos uma novidade! O Twitter, a SendGrid e a Toptal vão patrocinar o evento, ou seja, cerveja de graça o/ !! Venha bater um papo e comemorar com a gente!! Esperamos vocês lá!",
-            "url": "http://www.meetup.com/Minas-Dev-Beer/events/218884896/"
-        },
-        {
             "name": "Android for Dummies",
             "date": "2014-12-14",
             "local": {
@@ -359,16 +188,6 @@
             },
             "description": "Se você não sabe nada (ou quase nada) sobre desenvolvimento Android, esse evento é pra você!",
             "url": "http://buff.ly/1vJ0ETr"
-        },
-        {
-            "name": "Encontro Python BH",
-            "date": "2014-12-13",
-            "local": {
-                "name": "Intip",
-                "googlemaps_link": "https://goo.gl/maps/PdiUr"
-            },
-            "description": "Esse será o quinto Encontro da Comunidade Python de Belo Horizonte. Esse é um evento sem fins lucrativos que tem como objetivo reunir estudantes e profissionais entusiastas da linguagem Python a fim de propiciar uma forma de compartilhamento de informações e experiências relacionadas a esta linguagem que a cada dia vem conquistando cada vez mais espaço no mercado.",
-            "url": "http://www.meetup.com/Belo-Horizonte-Python-User-Group/events/219129163/"
         },
         {
             "name": "Meetup SF11BH",
@@ -399,16 +218,6 @@
             },
             "description": "Hey Devs, é hackademia com Polymer! Durante o mês de novembro, comunidades de desenvolvedores ao redor do mundo estarão realizando eventos politécnicos sobre o Polymer. E esta é a edição de Maceió.",
             "url": "https://plus.google.com/events/c7ku70m48t4crv56hn22avtocpk"
-        },
-        {
-            "name": "PHPizza",
-            "date": "2014-11-27",
-            "local": {
-                "name": "Pizzarella",
-                "googlemaps_link": "http://goo.gl/Je2EEJ"
-            },
-            "description": "A comunidade de PHP em Minas Gerais está parada há muito tempo. Vamos mudar isso.",
-            "url": "http://www.meetup.com/PHPMG-Meetup-Belo-Horizonte/"
         },
         {
             "name": "Polymer Hackademic",
@@ -459,16 +268,6 @@
             },
             "description": "O maior evento do Sudeste relacionado ao Google cuidadosamente elaborado para você da comunidade GDG! Palestrantes impressionantes e muita diversão!",
             "url": "http://sudeste.devfest.com.br/"
-        },
-        {
-            "name": "Worpdress Meetup de Novembro/2014",
-            "date": "2014-11-01",
-            "local": {
-                "name": "UNI-BH",
-                "googlemaps_link": "https://goo.gl/maps/g1R9V"
-            },
-            "description": "Está edição do Meetup terá o objetivo de demonstrar como o WordPress foi projetado e construído, analisando seus fundamentos, para possibilitar a ampliação de seu uso no desenvolvimento e também na customização de forma correta.",
-            "url": "http://www.meetup.com/WordPressBeloHorizonte/"
         },
         {
             "name": "DevDay 2014",

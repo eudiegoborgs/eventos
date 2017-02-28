@@ -18,7 +18,7 @@ Para adicionar um evento e contribuir com este respositório, [crie uma issue\*]
 - Local: [Local](URL do Google Maps)
 - Data: YYYY-MM-DD
 - Descrição: Rápida descrição
-- Comunidade: Qual comunidade está promovendo o evento?
+- Comunidade: Alguma comunidade está promovendo o evento?
 ```
 
 \*Confira nesta [issue](https://github.com/minasdev/minasdev-events/issues/15) um exemplo real.
