@@ -1,6 +1,16 @@
 {
     "events": [
         {
+            "name": "19º Encontro Locaweb Belo Horizonte",
+            "date": "2017-03-30",
+            "local": {
+                "name": "The One Business Center",
+                "googlemaps_link": "https://goo.gl/maps/DoRnGLaRTSy"
+            },
+            "description": "A 19º edição do roadshow Encontro Locaweb tem como objetivo levar conteúdo de qualidade e promover networking para mais de 3000 profissionais de internet e empreendedores nas cidades de Belo Horizonte, Recife, Curitiba, Porto Alegre e São Paulo.",
+            "url": "http://eventos.locaweb.com.br/proximos-eventos/19o-encontro-locaweb-belo-horizonte/"
+        },
+        {
             "name": "Dev in Company",
             "date": "2017-02-18",
             "local": {
