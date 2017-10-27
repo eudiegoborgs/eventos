@@ -20,4 +20,4 @@ Para adicionar um evento e contribuir com nossa comunidade, [crie uma issue\*](h
 - Comunidade: Alguma comunidade está promovendo o evento?
 ```
 
-\*Confira nesta [issue](https://github.com/minasdev/minasdev-events/issues/15) um exemplo real.
+\*Confira um exemplo real [nesta issue](https://github.com/minasdev/minasdev-events/issues/15).
