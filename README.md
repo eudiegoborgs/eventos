@@ -1,6 +1,6 @@
 # Minas Dev Events
 
-O Minas Dev Events é um projeto para centralizar a colaboração entre as comunidades que desejam ter seus eventos aparecendo no [minasdev.org](https://minasdev.org), e respectivamente, também na [API do Minas Dev].(https://github.com/minasdev/api.minasdev.org)
+O Minas Dev Events é um projeto para centralizar a colaboração entre as comunidades que desejam ter seus eventos aparecendo no [minasdev.org](https://minasdev.org), e respectivamente, também na [API do Minas Dev](https://github.com/minasdev/api.minasdev.org).
 
 ## Como colaborar adicionando um Evento?
 
