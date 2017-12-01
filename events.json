@@ -1,6 +1,16 @@
 {
     "events": [
         {
+            "name": "DevWeekend 2018",
+            "date": "2018-01-19",
+            "local": {
+                "name": "Colégio Diamantinense",
+                "googlemaps_link": "https://goo.gl/maps/A4sc5cPbgt82"
+            },
+            "description": "O maior evento de TI e Empreendedorismo de Diamantina e região. O evento leva aos developers do interior de Minas uma oportunidade unica para saber mais sobre suas carreiras, fazer networking e aprender mais sobre empreendedorismo e algumas paths técnicas.",
+            "url": "http://devweekend.com.br/"
+        },
+        {
             "name": "Front in BH 2k17",
             "date": "2017-09-23",
             "local": {
