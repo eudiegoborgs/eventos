@@ -1,6 +1,16 @@
 {
     "events": [
         {
+            "name": "Live - Criando um menu responsivo, mobile first com CSS3",
+            "date": "2018-04-19",
+            "local": {
+                "name": "Youtube",
+                "googlemaps_link": ""
+            },
+            "description": "Nesta live você irá aprender como criar um menu responsivo, seguindo os conceitos de mobile-first utilizando-se de CSS3.",
+            "url": "https://www.youtube.com/watch?v=F9ma0IqZW_M"
+        },
+        {
             "name": "DevWeekend 2018",
             "date": "2018-01-19",
             "local": {
