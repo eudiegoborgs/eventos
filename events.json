@@ -1,6 +1,16 @@
 {
     "events": [
         {
+           "name": "DevOpsDays BH 2019",
+            "date": "2019-09-28",
+            "local": {
+                "name": "Av. Brasil, 2023 - Funcionários, Belo Horizonte - MG",
+                "googlemaps_link": "https://goo.gl/maps/HW28eZGsTNnJm7Bz9"
+            },
+            "description": "Maior evento de DevOps do Brasil.",
+            "url": "https://devopsdays.org/events/2019-belo-horizonte/welcome/"
+        },
+        {
            "name": "1º Meetup BetimDev",
             "date": "2019-03-23",
             "local": {
