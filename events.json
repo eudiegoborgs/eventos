@@ -1,6 +1,16 @@
 {
     "events": [
         {
+           "name": "PHPMG Talks no Vale BH 2019",
+            "date": "2019-10-26",
+            "local": {
+                "name": "Sebrae Lab (Ipatinga)",
+                "googlemaps_link": "https://goo.gl/maps/Bq4j4mVNqpnasWRM6"
+            },
+            "description": "Meetup sobre desenvolvimento, tecnologia e carreia no Vale do Aço.",
+            "url": "https://www.meetup.com/pt-BR/PHP-MG/events/265475029"
+        },
+        {
            "name": "DevOpsDays BH 2019",
             "date": "2019-09-28",
             "local": {
